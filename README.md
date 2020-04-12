@@ -1,1 +1,1 @@
-# python-scrapy
+# Learning Python - with Python scraping
